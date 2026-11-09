@@ -1,0 +1,15 @@
+{
+  "server_name": "WildCity",
+  "ip": "212.80.8.168",
+  "port": 7777,
+  "manifest_url": "https://raw.githubusercontent.com/rezashafiee310-netizen/launcher-config/main/manifest.json",
+  "data_version": 1,
+  "links": {
+    "telegram": "https://t.me/wildcity_samp",
+    "discord": "",
+    "website": "wildcity.ir"
+  },
+  "news": [
+    { "title": "افتتاح سرور", "body": "لانچر با موفقیت به هاست وصل شد.", "date": "2026-11-10" }
+  ]
+}
