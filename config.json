@@ -1,5 +1,15 @@
 {
-  "servers": [
-    { "host": "212.80.8.168", "port": "7777" }
+  "server_name": "WildCity",
+  "ip": "212.80.8.168",
+  "port": 7777,
+  "manifest_url": "https://raw.githubusercontent.com/rezashafiee310-netizen/launcher-config/main/manifest.json",
+  "data_version": 1,
+  "links": {
+    "telegram": "https://t.me/yourserver",
+    "discord": "",
+    "website": ""
+  },
+  "news": [
+    { "title": "افتتاح سرور", "body": "لانچر با موفقیت به هاست وصل شد.", "date": "2026-11-10" }
   ]
 }
